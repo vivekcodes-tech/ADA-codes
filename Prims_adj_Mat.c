@@ -3,7 +3,7 @@
 #define INFI 99
 
 //  edges[10][10]  stores MST edges, wt[10][10] is Cost adjacency matrix, n is Number of vertices
-int edges[10][10], n, wt[10][10];
+int edges[10][10], n, wt[10][10]; 
 
 
 void prims() {
